@@ -90,10 +90,10 @@ Project:
    Module: FTOptix.CODESYS.Net
    Version: 2.0
  Statistics:
-  TotalNodeCount: 594
-  Objects: 118
+  TotalNodeCount: 599
+  Objects: 119
   ObjectTypes: 1
-  Variables: 474
+  Variables: 478
   VariableTypes: 0
   DataTypes: 0
   Methods: 1
